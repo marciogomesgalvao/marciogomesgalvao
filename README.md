@@ -14,22 +14,33 @@ Sou Márcio gomes Galvão, no momento sou um programador front end, estou aprend
  <a href="https://www.instagram.com/marciogomesgalvao"/> 
  <img align="left" alt="imagem instagram tipo icone de camera" width="22px" src=https://zobika.com/wp-content/uploads/2020/06/instagram-1.png /> 
  <p><p/> 
- <p><p/>	
  <br> 
   
 <br>![marcio stats](https://github-readme-stats.vercel.app/api?username=marciogomesgalvao&show_icons=true&theme=radical)   
-<br>
+</br>
  
 
    
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogomesgalvao&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-<p><p/>
-<p><p/>
-</br>  
-<br> 
+</br> 
 
-   
   
+    
+<br>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogomesgalvao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+</br>
+  
+   
+     
+ <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogomesgalvao&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+ </br> 
+   
+    
+     
+ <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogomesgalvao&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) 
+ </br>
+    
+    
+     
 <h4>:speech_balloon:pergunte-me sobre algo aqui:grey_question:</h4> 
   <a href="https://join.skype.com/ijioZZ0H7pdb"/> 
  <img align="left" alt="imagem skype tipo icone de letras" width="22px" src=https://i.pinimg.com/564x/5c/7d/7a/5c7d7aa8cc218d083d699292371c5889.jpg />  
