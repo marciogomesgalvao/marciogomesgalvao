@@ -13,12 +13,23 @@ Sou Márcio gomes Galvão, no momento sou um programador front end, estou aprend
  <img align="left" alt="imagem linkedin tipo icone de letras" width="22px" src=https://i0.wp.com/sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png?ssl=1 />
  <a href="https://www.instagram.com/marciogomesgalvao"/> 
  <img align="left" alt="imagem instagram tipo icone de camera" width="22px" src=https://zobika.com/wp-content/uploads/2020/06/instagram-1.png /> 
+ <p><p/> 
+ <p><p/>	
  <br> 
-![marcio stats](https://github-readme-stats.vercel.app/api?username=marciogomesgalvao&show_icons=true&theme=radical)
-	https://github-readme-stats.vercel.app/api?username={marciogomesgalvao}&theme=blue-green 
- https://github-readme-stats.vercel.app/api/top-langs/?username={marciogomesgalvao}&theme=blue-green
- <br>   
+  
+<br>![marcio stats](https://github-readme-stats.vercel.app/api?username=marciogomesgalvao&show_icons=true&theme=radical)   
+<br>
  
+
+   
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogomesgalvao&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><p/>
+<p><p/>
+</br>  
+<br> 
+
+   
+  
 <h4>:speech_balloon:pergunte-me sobre algo aqui:grey_question:</h4> 
   <a href="https://join.skype.com/ijioZZ0H7pdb"/> 
  <img align="left" alt="imagem skype tipo icone de letras" width="22px" src=https://i.pinimg.com/564x/5c/7d/7a/5c7d7aa8cc218d083d699292371c5889.jpg />  
